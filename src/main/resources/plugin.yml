@@ -1,0 +1,7 @@
+name: VanishNoAutoComplete
+author: Coproglotte
+version: 0.2
+main: o.coproglotte.vanishnoautocomplete.VanishNoAutoComplete
+
+depend:
+  [ProtocolLib, VanishNoPacket]
